@@ -1,0 +1,31 @@
+.parents
+{
+    background-color: lemonchiffon;
+    
+    
+    height: 200vh;
+}
+.e1
+{
+    position: relative;
+    right:0;
+    background-color:blue;
+    
+}
+.e2
+
+{
+    position: absolute;
+    right:0;
+    
+    background-color:red;
+    
+}
+.e3
+{
+  
+position: fixed;
+right:0;
+    background-color:green;
+    
+}
