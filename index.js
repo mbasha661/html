@@ -27,3 +27,21 @@ console.log(student.name)
 console.log(student)
 console.log(student.dateofjoin)
 console.log(student)
+//array
+let array=[550,'first',880]
+console.log(array)
+console.log(array[2])
+//FUNCTION
+let xy=10
+let ys=22
+
+function add (x,y)
+{
+    let z=x+y
+
+    return z
+}
+let don=add(10,12)
+//console.log(don)
+
+//conditions
